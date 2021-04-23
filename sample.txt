@@ -1,7 +1,9 @@
-This is a new file using .txt instead of text. 
+ 
 
 I also like Python, SPSS, and R. I am using git for the first time. 
 
 I am adding a new line. I do not know what I am doing honestly.
 
 I will be deleting the second line now.
+
+This is it.
